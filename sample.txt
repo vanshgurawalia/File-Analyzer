@@ -1,0 +1,4 @@
+hello world
+this is a file analyzer
+it shows word frequency and more
+hello again world
